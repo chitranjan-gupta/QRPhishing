@@ -1,0 +1,15 @@
+{
+  "name": "qrphishing",
+  "version": "0.0.1",
+  "description": "Google Message Web QR Code Phishing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Chitranjan Gupta",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.4.0"
+  },
+  "devDependencies": {},
+}
