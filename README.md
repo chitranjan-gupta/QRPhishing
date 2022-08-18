@@ -22,7 +22,7 @@ Install dependencies
   npm install
 ```
 
-Chrome Driver Must be in your Path
+Chrome Web Driver Must be in your Path
 
 Start the server
 
