@@ -15,7 +15,10 @@ Go to the project directory
 ```bash
   cd my-project
 ```
-
+Node.js Must be installed on your system
+```
+https://nodejs.org
+```
 Install dependencies
 
 ```bash
@@ -23,7 +26,10 @@ Install dependencies
 ```
 
 Chrome Web Driver Must be in your Path
-
+Download the Chrome Web Driver from this link for your system
+```
+https://chromedriver.chromium.org
+```
 Start the server
 
 ```bash
