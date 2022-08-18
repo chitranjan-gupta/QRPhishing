@@ -2,6 +2,7 @@
 # QRPhishing
 
 Hijacking the Google Message Web session using QRPhishing
+Read the documentaion on [wiki](https://github.com/chitranjan01/QRPhishing/wiki)
 ## Run Locally
 
 Clone the project
