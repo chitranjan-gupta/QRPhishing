@@ -1,7 +1,7 @@
 
 # QRPhishing
 
-Hijacking the google whatsapp web session using QRPhishing
+Hijacking the Google Message Web session using QRPhishing
 ## Run Locally
 
 Clone the project
