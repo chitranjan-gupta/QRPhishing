@@ -6,7 +6,7 @@ Hijacking the google whatsapp web session using QRPhishing
 
 Clone the project
 
-```git
+```bash
   git clone https://github.com/chitranjan01/QRPhishing
 ```
 
