@@ -6,14 +6,14 @@ Hijacking the google whatsapp web session using QRPhishing
 
 Clone the project
 
-```bash
-  git clone https://link-to-project
+```git
+  git clone (https://github.com/chitranjan01/QRPhishing)
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd QRPhishing
 ```
 Node.js Must be installed on your system
 ```
