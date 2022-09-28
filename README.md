@@ -18,7 +18,7 @@ Go to the project directory
 ```
 Node.js Must be installed on your system
 ```
-https://nodejs.org
+  https://nodejs.org
 ```
 Install dependencies
 
@@ -29,7 +29,7 @@ Install dependencies
 Chrome Web Driver Must be in your Path
 Download the Chrome Web Driver from this link for your system
 ```
-https://chromedriver.chromium.org
+  https://chromedriver.chromium.org
 ```
 Start the server
 
