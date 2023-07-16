@@ -2,7 +2,7 @@
 # QRPhishing
 
 Hijacking the Google Message Web session using QRPhishing.
-Read the documentaion on [wiki](https://github.com/chitranjan01/QRPhishing/wiki).
+Read the documentaion on [wiki](https://github.com/chitranjan-gupta/QRPhishing/wiki).
 ## Run Locally
 
 Node.js Must be installed on your system
@@ -17,7 +17,7 @@ Download the Chrome Web Driver from this link for your system
 Clone the project
 
 ```bash
-  git clone https://github.com/chitranjan01/QRPhishing
+  git clone https://github.com/chitranjan-gupta/QRPhishing
 ```
 
 Go to the project directory
