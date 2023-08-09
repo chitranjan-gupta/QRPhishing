@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Test</title>
+  </head>
+  <body>
+    <img alt="qr-code" src="qrcode_localhost.png" class="qr-code" />
+    <script type="text/javascript">
+      document.addEventListener("DOMContentLoaded", function () {
+        const img = document.querySelector("img");
+        const p = document.querySelector("p");
+        setInterval(() => {
+          img.src = "qrcode_localhost.png";
+        }, 15000);
+      });
+    </script>
+  </body>
+</html>
